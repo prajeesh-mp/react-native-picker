@@ -1,4 +1,4 @@
-# react-native-picker
+# rn-simple-picker
 
 Android/iOS Compatible Dropdown
 
@@ -10,14 +10,14 @@ Android/iOS Compatible Dropdown
 
 ```sh
 
-npm install react-native-picker
+npm install rn-simple-picker
 
 ```
 
 ## Usage
 
 ```js
-import Picker from "react-native-picker";
+import Picker from "rn-simple-picker";
 
 <Picker
     items={[

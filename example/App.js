@@ -1,7 +1,7 @@
 import { StatusBar } from "expo-status-bar";
 import { useState } from "react";
 import { StyleSheet, View, Text } from "react-native";
-import Picker from "react-native-picker";
+import Picker from "rn-simple-picker";
 
 export default function App() {
     const [selected, setSelected] = useState(null);
