@@ -18,7 +18,7 @@ function Picker({ placeHolder = "Choose", selectedItem, items, onSelect, contain
     };
 
     const Input = () => (
-        <TouchableOpacity onPress={() => setModalVisible(true)} style={[styles.input, containerStyle]}>
+        <TouchableOpacity onPress={() => setModalVisible(true)} style={[styles.input, containerStyle]} testID="picker-input">
             <Text style={[inputStyle]}>{chosen ? chosen.label : placeHolder}</Text>
             <Image source={require("../assets/chevron-down.png")} style={[styles.icon, iconStyle]} />
         </TouchableOpacity>
