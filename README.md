@@ -10,7 +10,7 @@ Android/iOS Compatible Dropdown
 
 ```sh
 
-npm install react-native-picker
+npm install rn-simple-picker
 
 ```
 
@@ -18,17 +18,19 @@ npm install react-native-picker
 
 ```js
 
-import Picker from  'react-native-picker';
+import Picker from  'rn-simple-picker';
 
 <Picker
 	items={[
 		{
 			label: "One",
-			value: 1
+			value: 1,
+			// "random": "data"
 		},
 		{
 			label: "Two",
-			value: 2
+			value: 2,
+			// "random": "data"
 		}
 	]}
 	onSelect={(item) => this.handleSelect(item)}
