@@ -1,5 +1,3 @@
-# react-native-picker
-
 Android/iOS Compatible Dropdown
 
 ![React Native Picker](https://i.ibb.co/0XdD9fn/IMG-1619-portrait.png)
