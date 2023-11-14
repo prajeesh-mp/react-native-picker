@@ -25,5 +25,9 @@
     "peerDependencies": {
         "react": "*",
         "react-native": "*"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/prajeesh-mp/react-native-picker"
     }
 }
