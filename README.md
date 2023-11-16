@@ -1,8 +1,7 @@
 Android/iOS Compatible Dropdown
 
-![React Native Picker](https://i.ibb.co/0XdD9fn/IMG-1619-portrait.png)
-
-![React Native Picker](https://i.ibb.co/zX8DPC6/ezgif-4-431f2dae8a.gif)
+<img src="https://i.ibb.co/0XdD9fn/IMG-1619-portrait.png" width="440px" />
+<img src="https://i.ibb.co/zX8DPC6/ezgif-4-431f2dae8a.gif" width="400px" />
 
 ## Installation
 
